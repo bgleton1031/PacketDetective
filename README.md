@@ -1,5 +1,5 @@
 # PacketDetective
-A project to investigate Packets using Wireshark
+A project to investigate Packets using Wireshark 🦈
 
 This project is from Cyber Defenders.
 So here's the breakdown of this project...🤓
