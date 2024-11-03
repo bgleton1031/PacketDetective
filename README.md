@@ -2,10 +2,10 @@
 A project to investigate Packets using Wireshark
 
 This project is from Cyber Defenders.
-So here's the breakdown of this project...
+So here's the breakdown of this project...🤓
 
-In September 2020, your SOC detected suspicious activity from a user device, flagged by unusual SMB protocol usage. Initial analysis indicates a possible compromise of a privileged account and remote access tool usage by an attacker.
-Your task is to examine network traffic in the provided PCAP files to identify key indicators of compromise (IOCs) and gain insights into the attacker’s methods, persistence tactics, and goals. Address the following questions to construct a timeline to better understand the progression of the attack.
+In September 2020, your SOC detected suspicious activity from a user device, flagged by unusual SMB protocol usage. Initial analysis indicates a possible compromise of a privileged account and remote access tool usage by an attacker. 🐱‍💻
+Your task is to examine network traffic in the provided PCAP files to identify key indicators of compromise (IOCs) and gain insights into the attacker’s methods, persistence tactics, and goals. Address the following questions to construct a timeline to better understand the progression of the attack. 🔍🕵️🔎
 
  
 
